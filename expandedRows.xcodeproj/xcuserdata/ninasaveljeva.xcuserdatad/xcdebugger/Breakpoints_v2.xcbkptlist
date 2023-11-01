@@ -1,0 +1,1010 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9BD23DFE-EADE-4016-AA29-F54785820C2A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2BFFF152-6203-4588-865C-C48948748D74"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "expandedRows/MyTVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "311"
+            endingLineNumber = "311"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2BFFF152-6203-4588-865C-C48948748D74 - 6bc06b38cf67df06"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "expandedRows.MyTVC.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "expandedRows"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ninasaveljeva/Documents/projects/tests/expandedRows/expandedRows/MyTVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "632">
+               </Location>
+               <Location
+                  uuid = "2BFFF152-6203-4588-865C-C48948748D74 - 6bc06b38cf67df06"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "expandedRows.MyTVC.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "expandedRows"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ninasaveljeva/Documents/projects/tests/expandedRows/expandedRows/MyTVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "180">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "61A7EE1F-01D3-4873-80AE-E24EAEF537EB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "expandedRows/MyTVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "508"
+            endingLineNumber = "508"
+            landmarkName = "collectionView(_:didSelectItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AF9EB7EA-6BE0-447F-9578-61BAFD1F2641"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "expandedRows/MyTVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "455"
+            endingLineNumber = "455"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F6448713-EBE9-4178-8DA2-321B345226A0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "expandedRows/MyTVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "456"
+            endingLineNumber = "456"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "86619E06-54C2-4F24-ABC7-8624CDDBE703"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "expandedRows/MyTVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "509"
+            endingLineNumber = "509"
+            landmarkName = "collectionView(_:didSelectItemAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "86619E06-54C2-4F24-ABC7-8624CDDBE703 - 92edbf88a1175eaf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "expandedRows.MyTVC.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "expandedRows"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ninasaveljeva/Documents/projects/tests/expandedRows/expandedRows/MyTVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "459"
+                  endingLineNumber = "459"
+                  offsetFromSymbolStart = "332">
+               </Location>
+               <Location
+                  uuid = "86619E06-54C2-4F24-ABC7-8624CDDBE703 - 92edbf88a1175eaf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "expandedRows.MyTVC.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "expandedRows"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ninasaveljeva/Documents/projects/tests/expandedRows/expandedRows/MyTVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "459"
+                  endingLineNumber = "459"
+                  offsetFromSymbolStart = "172">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E5116E5E-53A0-41D4-B57F-F6D55D1F1D30"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "expandedRows/MyTVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "518"
+            endingLineNumber = "518"
+            landmarkName = "collectionView(_:didSelectItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "109A9466-D24E-4E39-8CA9-81A59EAAA310"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "expandedRows/MyTVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "516"
+            endingLineNumber = "516"
+            landmarkName = "collectionView(_:didSelectItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "91EDB6AE-64A3-496D-A7E6-CC6AE3FCB950"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "expandedRows/MyTVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "220"
+            endingLineNumber = "220"
+            landmarkName = "initCollectionCells(collectionView:currentCell:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "91EDB6AE-64A3-496D-A7E6-CC6AE3FCB950 - f6b2e22b8ce13f6e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (expandedRows.MyTVC.ListItem) -&gt; () in expandedRows.MyTVC.initCollectionCells(collectionView: __C.UICollectionView) -&gt; UIKit.UICollectionViewDiffableDataSource&lt;expandedRows.MyTVC.Section, expandedRows.MyTVC.ListItem&gt;"
+                  moduleName = "expandedRows"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ninasaveljeva/Documents/projects/tests/expandedRows/expandedRows/MyTVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "213"
+                  endingLineNumber = "213"
+                  offsetFromSymbolStart = "172">
+               </Location>
+               <Location
+                  uuid = "91EDB6AE-64A3-496D-A7E6-CC6AE3FCB950 - 706cc78002fda5b0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (expandedRows.MyTVC.ListItem) -&gt; () in expandedRows.MyTVC.initCollectionCells(collectionView: __C.UICollectionView, currentCell: expandedRows.CompletedTestResultCell) -&gt; UIKit.UICollectionViewDiffableDataSource&lt;expandedRows.MyTVC.Section, expandedRows.MyTVC.ListItem&gt;"
+                  moduleName = "expandedRows"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ninasaveljeva/Documents/projects/tests/expandedRows/expandedRows/MyTVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "213"
+                  endingLineNumber = "213"
+                  offsetFromSymbolStart = "244">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "88DD823A-0A27-4DDA-8312-072A6C82993A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "expandedRows/MyTVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "360"
+            endingLineNumber = "360"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "39483D3F-7E5C-4A1D-8CA9-D0131FC89255"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "expandedRows/MyTVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "180"
+            endingLineNumber = "180"
+            landmarkName = "initCollectionCells(collectionView:currentCell:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "39483D3F-7E5C-4A1D-8CA9-D0131FC89255 - 565ba6bc2dabf26e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "expandedRows.MyTVC.initCollectionCells(collectionView: __C.UICollectionView) -&gt; UIKit.UICollectionViewDiffableDataSource&lt;expandedRows.MyTVC.Section, expandedRows.MyTVC.ListItem&gt;"
+                  moduleName = "expandedRows"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ninasaveljeva/Documents/projects/tests/expandedRows/expandedRows/MyTVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "172"
+                  endingLineNumber = "172"
+                  offsetFromSymbolStart = "640">
+               </Location>
+               <Location
+                  uuid = "39483D3F-7E5C-4A1D-8CA9-D0131FC89255 - 565ba6bc2dabf26e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "expandedRows.MyTVC.initCollectionCells(collectionView: __C.UICollectionView) -&gt; UIKit.UICollectionViewDiffableDataSource&lt;expandedRows.MyTVC.Section, expandedRows.MyTVC.ListItem&gt;"
+                  moduleName = "expandedRows"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ninasaveljeva/Documents/projects/tests/expandedRows/expandedRows/MyTVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "172"
+                  endingLineNumber = "172"
+                  offsetFromSymbolStart = "668">
+               </Location>
+               <Location
+                  uuid = "39483D3F-7E5C-4A1D-8CA9-D0131FC89255 - 1ed214596d29097a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UICollectionView, Foundation.IndexPath, expandedRows.MyTVC.ListItem) -&gt; Swift.Optional&lt;__C.UICollectionViewCell&gt; in expandedRows.MyTVC.initCollectionCells(collectionView: __C.UICollectionView) -&gt; UIKit.UICollectionViewDiffableDataSource&lt;expandedRows.MyTVC.Section, expandedRows.MyTVC.ListItem&gt;"
+                  moduleName = "expandedRows"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ninasaveljeva/Documents/projects/tests/expandedRows/expandedRows/MyTVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "175"
+                  endingLineNumber = "175"
+                  offsetFromSymbolStart = "404">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "78237466-9F54-40CA-96DF-64DF17C69BBD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "expandedRows/MyTVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "286"
+            endingLineNumber = "286"
+            landmarkName = "initCollectionCells(collectionView:currentCell:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0E34E083-D757-44C1-9FE7-1FA87FFAABD8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "expandedRows/MyTVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "248"
+            endingLineNumber = "248"
+            landmarkName = "initCollectionCells(collectionView:currentCell:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E78056FF-DA5F-47B8-93CA-888544ABE38A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "expandedRows/MyTVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "287"
+            endingLineNumber = "287"
+            landmarkName = "initCollectionCells(collectionView:currentCell:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "31E49636-FF5A-40E4-AFCA-5E6CF0EB9535"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "expandedRows/MyTVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "223"
+            endingLineNumber = "223"
+            landmarkName = "initCollectionCells(collectionView:currentCell:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "31E49636-FF5A-40E4-AFCA-5E6CF0EB9535 - 706cc78002fddebe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (expandedRows.MyTVC.ListItem) -&gt; () in expandedRows.MyTVC.initCollectionCells(collectionView: __C.UICollectionView, currentCell: expandedRows.CompletedTestResultCell) -&gt; UIKit.UICollectionViewDiffableDataSource&lt;expandedRows.MyTVC.Section, expandedRows.MyTVC.ListItem&gt;"
+                  moduleName = "expandedRows"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ninasaveljeva/Documents/projects/tests/expandedRows/expandedRows/MyTVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "267"
+                  endingLineNumber = "267"
+                  offsetFromSymbolStart = "588">
+               </Location>
+               <Location
+                  uuid = "31E49636-FF5A-40E4-AFCA-5E6CF0EB9535 - 706cc78002fda235"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (expandedRows.MyTVC.ListItem) -&gt; () in expandedRows.MyTVC.initCollectionCells(collectionView: __C.UICollectionView, currentCell: expandedRows.CompletedTestResultCell) -&gt; UIKit.UICollectionViewDiffableDataSource&lt;expandedRows.MyTVC.Section, expandedRows.MyTVC.ListItem&gt;"
+                  moduleName = "expandedRows"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ninasaveljeva/Documents/projects/tests/expandedRows/expandedRows/MyTVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "240"
+                  endingLineNumber = "240"
+                  offsetFromSymbolStart = "500">
+               </Location>
+               <Location
+                  uuid = "31E49636-FF5A-40E4-AFCA-5E6CF0EB9535 - 706cc78002fda40a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (expandedRows.MyTVC.ListItem) -&gt; () in expandedRows.MyTVC.initCollectionCells(collectionView: __C.UICollectionView, currentCell: expandedRows.CompletedTestResultCell) -&gt; UIKit.UICollectionViewDiffableDataSource&lt;expandedRows.MyTVC.Section, expandedRows.MyTVC.ListItem&gt;"
+                  moduleName = "expandedRows"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ninasaveljeva/Documents/projects/tests/expandedRows/expandedRows/MyTVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "223"
+                  endingLineNumber = "223"
+                  offsetFromSymbolStart = "496">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D4442429-545F-4A8A-B3AE-A32E5C81EF4B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "expandedRows/RecommendedProfessionsVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "254"
+            endingLineNumber = "254"
+            landmarkName = "initCollectionCells(collectionView:modelObjects:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6FE56A69-0642-4E48-AA14-B9244437FA9E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "expandedRows/RecommendedProfessionsVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "viewDidLayoutSubviews()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6FE56A69-0642-4E48-AA14-B9244437FA9E - 9c0c308d65813db5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "expandedRows.RecommendedProfessionsVC.viewDidLayoutSubviews() -&gt; ()"
+                  moduleName = "expandedRows"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ninasaveljeva/Documents/projects/tests/expandedRows/expandedRows/RecommendedProfessionsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "126"
+                  endingLineNumber = "126"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "6FE56A69-0642-4E48-AA14-B9244437FA9E - 9c0c308d65813d94"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "expandedRows.RecommendedProfessionsVC.viewDidLayoutSubviews() -&gt; ()"
+                  moduleName = "expandedRows"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ninasaveljeva/Documents/projects/tests/expandedRows/expandedRows/RecommendedProfessionsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "127"
+                  endingLineNumber = "127"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CF2DEE24-E862-4C02-9114-EE8D1B8D7876"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "expandedRows/MyTVC2.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "142"
+            endingLineNumber = "142"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C105784B-1A36-46B4-BD14-986F1511A518"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "expandedRows/RecommendedProfessionsVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "15A16265-9330-42C0-BCF9-A87ECEF4D072"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "expandedRows/MyTVC2.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "130"
+            endingLineNumber = "130"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "15A16265-9330-42C0-BCF9-A87ECEF4D072 - e3da99629d30d26a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "expandedRows.MyTVC2.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "expandedRows"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ninasaveljeva/Documents/projects/tests/expandedRows/expandedRows/MyTVC2.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "103"
+                  endingLineNumber = "103"
+                  offsetFromSymbolStart = "3872">
+               </Location>
+               <Location
+                  uuid = "15A16265-9330-42C0-BCF9-A87ECEF4D072 - e3da99629d30d26a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "expandedRows.MyTVC2.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "expandedRows"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ninasaveljeva/Documents/projects/tests/expandedRows/expandedRows/MyTVC2.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "103"
+                  endingLineNumber = "103"
+                  offsetFromSymbolStart = "3908">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "47C3382C-B894-402E-A93B-9C275962EE00"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "expandedRows/MyTVC2.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "128"
+            endingLineNumber = "128"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "47C3382C-B894-402E-A93B-9C275962EE00 - e3da99629d30d316"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "expandedRows.MyTVC2.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "expandedRows"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ninasaveljeva/Documents/projects/tests/expandedRows/expandedRows/MyTVC2.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "99"
+                  endingLineNumber = "99"
+                  offsetFromSymbolStart = "3816">
+               </Location>
+               <Location
+                  uuid = "47C3382C-B894-402E-A93B-9C275962EE00 - e3da99629d30d316"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "expandedRows.MyTVC2.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "expandedRows"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ninasaveljeva/Documents/projects/tests/expandedRows/expandedRows/MyTVC2.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "99"
+                  endingLineNumber = "99"
+                  offsetFromSymbolStart = "3852">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F9055B7B-2A7D-4E0E-9054-E78A8B07300A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "expandedRows/RecommendedProfessionsVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8E838D1A-25F1-4BDE-8BE0-76D47026D322"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "expandedRows/RecommendedProfessionsVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "274"
+            endingLineNumber = "274"
+            landmarkName = "updateCellHeight()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8E838D1A-25F1-4BDE-8BE0-76D47026D322 - b473b3505a763de3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "expandedRows.RecommendedProfessionsVC.updateCellHeight() -&gt; ()"
+                  moduleName = "expandedRows"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ninasaveljeva/Documents/projects/tests/expandedRows/expandedRows/RecommendedProfessionsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "311"
+                  endingLineNumber = "311"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "8E838D1A-25F1-4BDE-8BE0-76D47026D322 - b473b3505a763d1c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "expandedRows.RecommendedProfessionsVC.updateCellHeight() -&gt; ()"
+                  moduleName = "expandedRows"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ninasaveljeva/Documents/projects/tests/expandedRows/expandedRows/RecommendedProfessionsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "316"
+                  endingLineNumber = "316"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "8E838D1A-25F1-4BDE-8BE0-76D47026D322 - b473b3505a763d1c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "expandedRows.RecommendedProfessionsVC.updateCellHeight() -&gt; ()"
+                  moduleName = "expandedRows"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ninasaveljeva/Documents/projects/tests/expandedRows/expandedRows/RecommendedProfessionsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "316"
+                  endingLineNumber = "316"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "8E838D1A-25F1-4BDE-8BE0-76D47026D322 - b473b3505a763d1c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "expandedRows.RecommendedProfessionsVC.updateCellHeight() -&gt; ()"
+                  moduleName = "expandedRows"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ninasaveljeva/Documents/projects/tests/expandedRows/expandedRows/RecommendedProfessionsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "316"
+                  endingLineNumber = "316"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "8E838D1A-25F1-4BDE-8BE0-76D47026D322 - b473b3505a763d1c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "expandedRows.RecommendedProfessionsVC.updateCellHeight() -&gt; ()"
+                  moduleName = "expandedRows"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ninasaveljeva/Documents/projects/tests/expandedRows/expandedRows/RecommendedProfessionsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "316"
+                  endingLineNumber = "316"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "08DF5E5B-104E-4400-8F13-C6ECA4D4B653"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "expandedRows/MyTVC2.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "156"
+            endingLineNumber = "156"
+            landmarkName = "preferredContentSizeDidChange(forChildContentContainer:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4E09A978-4E20-4D04-84B9-9B1B9746D304"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "expandedRows/RecommendedProfessionsVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "121"
+            endingLineNumber = "121"
+            landmarkName = "createLayout()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2EEB36CA-8437-4792-AB82-E500E3563FE2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "expandedRows/RecommendedProfessionsVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "106"
+            endingLineNumber = "106"
+            landmarkName = "createLayout()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2EEB36CA-8437-4792-AB82-E500E3563FE2 - bdc5bbe59bbc6448"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int, __C.NSCollectionLayoutEnvironment) -&gt; Swift.Optional&lt;__C.NSCollectionLayoutSection&gt; in expandedRows.RecommendedProfessionsVC.createLayout() -&gt; __C.UICollectionViewLayout"
+                  moduleName = "expandedRows"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ninasaveljeva/Documents/projects/tests/expandedRows/expandedRows/RecommendedProfessionsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "164"
+                  endingLineNumber = "164"
+                  offsetFromSymbolStart = "264">
+               </Location>
+               <Location
+                  uuid = "2EEB36CA-8437-4792-AB82-E500E3563FE2 - bdc5bbe59bbc6429"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int, __C.NSCollectionLayoutEnvironment) -&gt; Swift.Optional&lt;__C.NSCollectionLayoutSection&gt; in expandedRows.RecommendedProfessionsVC.createLayout() -&gt; __C.UICollectionViewLayout"
+                  moduleName = "expandedRows"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ninasaveljeva/Documents/projects/tests/expandedRows/expandedRows/RecommendedProfessionsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "165"
+                  endingLineNumber = "165"
+                  offsetFromSymbolStart = "288">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4715290D-4A68-4D78-8F88-1B95FD7307C6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "expandedRows/RecommendedProfessionsVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "284"
+            endingLineNumber = "284"
+            landmarkName = "updateCellHeight()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4715290D-4A68-4D78-8F88-1B95FD7307C6 - b473b3505a76336e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "expandedRows.RecommendedProfessionsVC.updateCellHeight() -&gt; ()"
+                  moduleName = "expandedRows"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ninasaveljeva/Documents/projects/tests/expandedRows/expandedRows/RecommendedProfessionsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "330"
+                  endingLineNumber = "330"
+                  offsetFromSymbolStart = "572">
+               </Location>
+               <Location
+                  uuid = "4715290D-4A68-4D78-8F88-1B95FD7307C6 - b473b3505a76330f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "expandedRows.RecommendedProfessionsVC.updateCellHeight() -&gt; ()"
+                  moduleName = "expandedRows"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ninasaveljeva/Documents/projects/tests/expandedRows/expandedRows/RecommendedProfessionsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "331"
+                  endingLineNumber = "331"
+                  offsetFromSymbolStart = "572">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6D00321A-889B-485E-9B6C-0D8A7DAA6EB9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "expandedRows/MyTVC2.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "149"
+            endingLineNumber = "149"
+            landmarkName = "viewWillLayoutSubviews()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6D00321A-889B-485E-9B6C-0D8A7DAA6EB9 - f5cc1c3b25c9963"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "expandedRows.MyTVC2.tableView(_: __C.UITableView, didSelectRowAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "expandedRows"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ninasaveljeva/Documents/projects/tests/expandedRows/expandedRows/MyTVC2.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "127"
+                  endingLineNumber = "127"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "6D00321A-889B-485E-9B6C-0D8A7DAA6EB9 - 331769b2174b6524"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "expandedRows.MyTVC2.viewWillLayoutSubviews() -&gt; ()"
+                  moduleName = "expandedRows"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ninasaveljeva/Documents/projects/tests/expandedRows/expandedRows/MyTVC2.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "126"
+                  endingLineNumber = "126"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "6D00321A-889B-485E-9B6C-0D8A7DAA6EB9 - 331769b2174b637b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "expandedRows.MyTVC2.viewWillLayoutSubviews() -&gt; ()"
+                  moduleName = "expandedRows"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ninasaveljeva/Documents/projects/tests/expandedRows/expandedRows/MyTVC2.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "139"
+                  endingLineNumber = "139"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3F627AB5-1C78-4E93-8F79-85B9D5386C49"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "expandedRows/RecommendedProfessionsVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "298"
+            endingLineNumber = "298"
+            landmarkName = "collectionView(_:didSelectItemAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3F627AB5-1C78-4E93-8F79-85B9D5386C49 - 718f59e2ba00613b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "expandedRows.RecommendedProfessionsVC.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "expandedRows"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ninasaveljeva/Documents/projects/tests/expandedRows/expandedRows/RecommendedProfessionsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "342"
+                  endingLineNumber = "342"
+                  offsetFromSymbolStart = "356">
+               </Location>
+               <Location
+                  uuid = "3F627AB5-1C78-4E93-8F79-85B9D5386C49 - 718f59e2ba00613b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "expandedRows.RecommendedProfessionsVC.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "expandedRows"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ninasaveljeva/Documents/projects/tests/expandedRows/expandedRows/RecommendedProfessionsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "342"
+                  endingLineNumber = "342"
+                  offsetFromSymbolStart = "644">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E7E860B4-87C2-4007-AF4D-450DCEA15E57"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "expandedRows/RecommendedProfessionsVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "237"
+            endingLineNumber = "237"
+            landmarkName = "initCollectionCells(collectionView:modelObjects:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E7E860B4-87C2-4007-AF4D-450DCEA15E57 - 41b32edf0809b84f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #2 (expandedRows.ListItem) -&gt; () in expandedRows.RecommendedProfessionsVC.initCollectionCells(collectionView: __C.UICollectionView, modelObjects: Swift.Array&lt;expandedRows.ProfessionsHeaderItem&gt;) -&gt; UIKit.UICollectionViewDiffableDataSource&lt;expandedRows.Section, expandedRows.ListItem&gt;"
+                  moduleName = "expandedRows"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ninasaveljeva/Documents/projects/tests/expandedRows/expandedRows/RecommendedProfessionsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "284"
+                  endingLineNumber = "284"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "E7E860B4-87C2-4007-AF4D-450DCEA15E57 - 640eeedac6e0331e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (expandedRows.ListItem) -&gt; () in expandedRows.RecommendedProfessionsVC.initCollectionCells(collectionView: __C.UICollectionView, modelObjects: Swift.Array&lt;expandedRows.ProfessionsHeaderItem&gt;) -&gt; UIKit.UICollectionViewDiffableDataSource&lt;expandedRows.Section, expandedRows.ListItem&gt;"
+                  moduleName = "expandedRows"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ninasaveljeva/Documents/projects/tests/expandedRows/expandedRows/RecommendedProfessionsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "284"
+                  endingLineNumber = "284"
+                  offsetFromSymbolStart = "168">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
